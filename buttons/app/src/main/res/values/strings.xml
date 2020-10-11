@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">buttons</string>
+    <string name="change_text">Change Text</string>
+    <string name="change">change</string>
+</resources>
