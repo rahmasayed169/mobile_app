@@ -1,5 +1,26 @@
-link for commands:
+git link:
+https://git-scm.com/download/win
 
+link for commands:
 https://www.youtube.com/watch?v=2QP4QxzG-wY
 https://www.youtube.com/watch?v=5co5C3jmTWI
 https://guides.github.com/introduction/git-handbook/
+
+
+git init
+git config --global user.name "rahma"
+git remote add origine https://github.com/rahmasayed169/mobile_app
+git add .
+git commit -m "initial"
+git log
+git push origine master
+git clone https://github.com/rahmasayed169/mobile_app
+git pull origine master
+git branch
+git checkout -b mawada
+
+developer option in phone:
+https://developer.android.com/studio/releases/emulator
+
+emulator:
+https://developer.android.com/studio/run/managing-avds
